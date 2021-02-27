@@ -135,6 +135,10 @@ header {
     width: 100%;
 }
 
+.project-img {
+    height: 375px;
+}
+
 /* Contact */
 
 #contact p {
